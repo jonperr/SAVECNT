@@ -59,7 +59,7 @@ python savecnt.py
 
 # Uso
 
-### 1. Obtenha um token para o seu bot com o BotFather.
+#### 1. Obtenha um token para o seu bot com o BotFather.
 
 Na primeira execução, insira o token do bot quando solicitado.
 
@@ -107,6 +107,8 @@ JSON → Integrar com sistemas externos.
 
 
 Os arquivos são salvos na pasta local do projeto após cada exportação.
+
+
 
 
 – IA
