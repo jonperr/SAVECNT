@@ -1,4 +1,4 @@
-# SaveCNT – Bot de Contatos para Telegram
+# SAVECNT – Bot de Contatos para Telegram
 
 Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para exportação em VCF, CSV e JSON, interface interativa e persistência local dos dados.
 
