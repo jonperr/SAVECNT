@@ -4,12 +4,12 @@ Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para expor
 
 ## Recursos principais
 
-Adicione contatos enviando mensagens no formato:
+- Adicione contatos enviando mensagens no formato:
 
-- Nome - Categoria
-- Número
+ Nome - Categoria
+ Número
 
-Exportação em múltiplos formatos:
+- Exportação em múltiplos formatos:
 
 .vcf (importação direta em celulares)
 
@@ -18,17 +18,13 @@ Exportação em múltiplos formatos:
 .json (para desenvolvedores)
 
 
-Organização por categorias (ex.: "Trabalho", "Família", etc.).
+- Organização por categorias (ex.: "Trabalho", "Família", etc.).
 
-Edição e remoção de contatos individuais ou em lote.
+- Edição e remoção de contatos individuais ou em lote.
 
-Listagem com estatísticas de categorias e ordenação alfabética.
+- Listagem com estatísticas de categorias e ordenação alfabética.
 
-Persistência automática (salvamento em arquivo .pkl).
-
-Menu CLI para encerrar ou reiniciar o bot sem perder os contatos.
-
-Integração com Python Telegram Bot v20+ usando ApplicationBuilder.
+- Persistência automática (salvamento em arquivo .pkl).
 
 
 
