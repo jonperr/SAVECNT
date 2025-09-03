@@ -33,14 +33,14 @@ Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para expor
 
 # Instalação
 
-1. Instale as dependências:
+#### 1. Instale as dependências:
 
 ```
 pip install -r requirements.txt
 ```
 
 
-2. Clone o repositório:
+#### 2. Clone o repositório:
 
 ```
 git clone https://github.com/jonperr/SaveCnt.git
@@ -48,7 +48,7 @@ cd SaveCnt
 ```
 
 
-3. dê o comando para iniciar:
+#### 3. dê o comando para iniciar:
 
 ```
 python savecnt.py
@@ -59,7 +59,7 @@ python savecnt.py
 
 # Uso
 
-#### 1. Obtenha um token para o seu bot com o BotFather.
+### 1. Obtenha um token para o seu bot com o BotFather.
 
 Na primeira execução, insira o token do bot quando solicitado.
 
