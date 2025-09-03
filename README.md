@@ -43,8 +43,8 @@ pip install -r requirements.txt
 #### 2. Clone o repositório:
 
 ```
-git clone https://github.com/jonperr/SaveCnt.git
-cd SaveCnt
+git clone https://github.com/jonperr/SAVECNT.git
+cd SAVECNT
 ```
 
 
