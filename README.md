@@ -2,7 +2,7 @@
 
 Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para exportação em VCF, CSV e JSON, interface interativa e persistência local dos dados.
 
-## Recursos principais
+### Recursos principais
 
 - Adicione contatos enviando mensagens no formato:
 
@@ -10,7 +10,7 @@ Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para expor
 
   Número
 
--Exportação em múltiplos formatos:
+- Exportação em múltiplos formatos:
 
   .vcf (importação direta em celulares)
 
