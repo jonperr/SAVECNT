@@ -406,7 +406,7 @@ async def processar_remover_nome(update, context, nome_para_remover):
             reply_markup=markup
         )
 
-    async def callback_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
+  async def callback_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
     data = query.data
