@@ -48,7 +48,7 @@ cd SAVECNT
 ```
 
 
-#### 3. dê o comando para iniciar:
+#### 3. Comando para iniciar:
 
 ```
 python savecnt.py
