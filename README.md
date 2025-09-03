@@ -6,8 +6,8 @@ Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para expor
 
 Adicione contatos enviando mensagens no formato:
 
-Nome - Categoria
-Número
+- Nome - Categoria
+- Número
 
 Exportação em múltiplos formatos:
 
