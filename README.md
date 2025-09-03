@@ -1,8 +1,8 @@
-## SaveCNT – Bot de Contatos para Telegram
+# SaveCNT – Bot de Contatos para Telegram
 
 Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para exportação em VCF, CSV e JSON, interface interativa e persistência local dos dados.
 
-# Recursos principais
+## Recursos principais
 
 Adicione contatos enviando mensagens no formato:
 
@@ -34,7 +34,7 @@ Integração com Python Telegram Bot v20+ usando ApplicationBuilder.
 
 ---
 
-## Instalação
+# Instalação
 
 1. Instale as dependências:
 
@@ -60,9 +60,9 @@ python savecnt.py
 
 ---
 
-## Uso
+# Uso
 
-# 1. Obtenha um token para o seu bot com o BotFather.
+## 1. Obtenha um token para o seu bot com o BotFather.
 
 Na primeira execução, insira o token do bot quando solicitado.
 
@@ -70,7 +70,7 @@ O token será salvo em token_salvo.txt para as próximas execuções.
 
 
 
-# 2. Use o menu no terminal para:
+## 2. Use o menu no terminal para:
 
 Logout (remover token)
 
@@ -78,7 +78,7 @@ Encerrar o bot
 
 
 
-# 3. Comandos disponíveis no bot (Telegram):
+## 3. Comandos disponíveis no bot (Telegram):
 
 /start – Mensagem inicial
 
@@ -100,7 +100,7 @@ Encerrar o bot
 
 ---
 
-## Exportação
+# Exportação
 
 VCF → Importação direta em celulares.
 
