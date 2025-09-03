@@ -10,13 +10,13 @@ Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para expor
 
   Número
 
-- Exportação em múltiplos formatos:
+-Exportação em múltiplos formatos:
 
- .vcf (importação direta em celulares)
+  .vcf (importação direta em celulares)
 
- .csv (planilhas Excel/Google Sheets)
+  .csv (planilhas Excel/Google Sheets)
 
- .json (para desenvolvedores)
+  .json (para desenvolvedores)
 
 
 - Organização por categorias (ex.: "Trabalho", "Família", etc.).
