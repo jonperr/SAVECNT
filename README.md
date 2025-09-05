@@ -33,24 +33,24 @@ Um bot para gerenciar contatos diretamente pelo Telegram, com suporte para expor
 
 # Instalação
 
-#### 1. Instale as dependências:
+#### 1. Clone o repositório:
+
+```
+git clone https://github.com/jonperr/SAVECNT.git
+```
+
+
+#### 2. Instale as dependências:
 
 ```
 pip install -r requirements.txt
 ```
 
 
-#### 2. Clone o repositório:
-
-```
-git clone https://github.com/jonperr/SAVECNT.git
-cd SAVECNT
-```
-
-
 #### 3. Comando para iniciar:
 
 ```
+cd SAVECNT
 python savecnt.py
 ```
 
