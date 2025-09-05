@@ -43,6 +43,7 @@ git clone https://github.com/jonperr/SAVECNT.git
 #### 2. Instale as dependências:
 
 ```
+cd SAVECNT
 pip install -r requirements.txt
 ```
 
@@ -50,7 +51,6 @@ pip install -r requirements.txt
 #### 3. Comando para iniciar:
 
 ```
-cd SAVECNT
 python savecnt.py
 ```
 
